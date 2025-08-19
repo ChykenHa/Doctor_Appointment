@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
  clone this project in your wroking directory or wherever you want using
 
 ```
-git clone https://github.com/danakh103/Doctor-Appointment.git
+git clone https://github.com/ChyKenHa/Doctor-Appointment.git
 
 cd .\Doctor-Appointment
 ```
