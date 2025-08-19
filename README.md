@@ -18,8 +18,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing and playing with Application
 
->Use step by step to avoid error.
-
 * **Get this project in your PC**
 
  clone this project in your wroking directory or wherever you want using
@@ -39,9 +37,3 @@ git commit -m "<YOUR COMMENT FOR CHANGES>"
 
 git push
 ```
-
-## License
-
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/License_icon-mit-2.svg/156px-License_icon-mit-2.svg.png)](LICENSE)
-
-**Thank You !!**
